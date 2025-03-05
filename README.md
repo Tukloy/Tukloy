@@ -1,4 +1,5 @@
-
+<img src="banner.jpg" alt="GitHub Banner" width="100%" />
+<h2 align="left">Hi 👋! My name is Rheyvince Lawrence Napay and I'm a Fullstack Web Developer, from Philippines</h2>
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/tukloy) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Tukloy26) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tukloy_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rheyvince-lawrence-napay-7779a729a/) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/tukloy) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@tukloy) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rheyvince.26@gmail.com) 
 
@@ -16,8 +17,6 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=light)
 
-<h2 align="left">Hi 👋! My name is Rheyvince Lawrence Napay and I'm a Fullstack Web Developer, from Philippines</h2>
-
 ###
 
 <div align="center">
@@ -27,11 +26,11 @@
 
 ###
 
-<img align="right" height="150" src="https://yt3.ggpht.com/_Id0_hliOY524WtbqTxs9Ah-lLaQdfUGnHGV6FYOdzTCBtrYTZY_Z1atSbyJcYLaCeeQqxjBGvk=s600-c-k-c0x00ffffff-no-rj-rp-mo"  />
+<img align="right" height="150" src="profile.jpg"  />
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" alt="vuejs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo"  />
@@ -60,8 +59,6 @@
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/Tukloy/Tukloy/output/snake.svg" alt="Snake animation" />
 
 ###
 
